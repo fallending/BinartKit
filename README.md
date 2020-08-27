@@ -42,7 +42,7 @@
 
 - Canvas 画布
 
-### 视图
+### 复合视图
 
 - [BinartOCPlotView-iOS](https://github.com/fallending/BinartOCPlotView-iOS), 音频波形柱状图，另提供仿 微信 最新的录音的语音显示视图组件
 - [BinartSwiftWeWon-iOS](https://github.com/fallending/BinartSwiftWeWon-iOS), IM 的UI视图，还在开发中，未开发状态；从 MessageKit 改过来的
