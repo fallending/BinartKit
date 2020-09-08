@@ -68,6 +68,7 @@
 - Filter 筛选
 - Modal 对话框
 - Popup 弹出菜单
+- ActionSheet 底部弹窗 [ACActionSheet](https://github.com/chenxianj/ACActionSheet),
 
 - Tips 引导
 - Notice 通告栏
