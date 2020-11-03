@@ -3,14 +3,11 @@
 
 ## iOS
 
-### 核心
-
-- [BinartOCAMR-iOS](https://github.com/fallending/BinartOCAMR-iOS), AMR 编解码库，这里提供了pod接入，没有多余修改
-
 ### 基础视图
 
-[命名参考]()：微信小程序组件、支付宝小程序组件
+> 命名参考：微信小程序组件、支付宝小程序组件
 
+```
 - View 视图容器
 - Swiper 滑块视图容器
 - ScrollView 可滚动视图区域
@@ -18,12 +15,10 @@
 - CoverImage 图片视图
 - MovableView 可移动视图容器
 - MovableArea 可移动视图区域
-
 - Text 文本
 - Icon 图标
 - Pregress 进度条
 - RichText 富文本
-
 - Button 按钮
 - Form 表单
 - Label 标签
@@ -32,15 +27,14 @@
 - Radio 单选按钮
 - RadioGroup 单选组
 - CheckBox 复选框
-- CheckBox 复选组
+- CheckGroup 复选组
 - Switch 开关
 - Slider 滑动选择器
 - PickerView滚动选择器
 - Picker 底部担起的滚动选择器
-
 - Navigator 页面导航
-
 - Canvas 画布
+```
 
 ### 复合视图
 
@@ -82,20 +76,17 @@
 
 - [BinartOCThreadSafeContainers-iOS](https://github.com/fallending/BinartOCThreadSafeContainers-iOS)， 线程安全的容器类
 - [BinartOCUtility-iOS](https://github.com/fallending/BinartOCUtility-iOS)，小小工具集合
+- [BinartOCAMR-iOS](https://github.com/fallending/BinartOCAMR-iOS), AMR 编解码库，这里提供了pod接入，没有多余修改
+
+### 研究
+
+- [NSThread和GCD的性能比较](https://github.com/fallending/BinartOCExamples/tree/main/1-NSThread-vs-GCD/NSThread_GCD)
 
 ## Android
 
-
-### 未整理
-
-
-
 ## Backend in Java
 
-
-
 ## Python
-
 
 ## C++
 
